@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "277495834817",
+    "firebase_url": "https://testing123-71872-default-rtdb.firebaseio.com",
+    "project_id": "testing123-71872",
+    "storage_bucket": "testing123-71872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277495834817:android:595f1ce531786b616e4c40",
+        "android_client_info": {
+          "package_name": "com.tech.firebase001_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIXnsc3qhgfK2cI1tgEc8bUWhomAntK8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277495834817:android:6e30dd1aedb274b36e4c40",
+        "android_client_info": {
+          "package_name": "com.virtual.virtualclassroomhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIXnsc3qhgfK2cI1tgEc8bUWhomAntK8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
